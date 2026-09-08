@@ -1,5 +1,7 @@
 # TMP Layered Effects
 
+**English** | [繁體中文](README.zh-TW.md)
+
 Layered outlines, gradients and soft shadows for Unity **TextMeshProUGUI**, using cached distance-field compositing.
 
 ![Native TMP and three layered effect styles](Docs/demo.png)
